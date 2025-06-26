@@ -8,7 +8,7 @@ import { RouterOutlet } from '@angular/router';
   styleUrl: './app.scss'
 })
 export class App {
-clickBnt() {
-  alert("歸剛ㄟ")
-}
+ex1: string = "我是標題";
+ex2: string = "內容是我";
+picture: string = "chocolate.png";
 }

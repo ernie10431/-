@@ -1,3 +1,37 @@
+1.Content（內容）Padding（內距）Border（邊框）Margin（外距）
+2.Padding（內距）
+3.Margin（外距）
+4.padding-right
+  padding-top
+
+  padding(上右下左) 2px 3px 0px 0px
+
+5.px  vw(抓螢幕寬度比例) vh(抓螢幕高度比例) rem=16px %
+
+6.:hover{
+  width: 200px;
+}
+
+7.:active{
+  width: 200px;
+}
+8.由上往下
+9.display:flex
+10.display:flex
+11.藍色
+
+
+
+
+
+
+
+
+
+
+
+
+
 排版(Alt+Shifi+f)
 檔案放置位置 註解(ctrl + /) 盡量避免重複程式碼
 Alt+d  依序選取相同標籤
